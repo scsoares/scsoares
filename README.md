@@ -8,6 +8,7 @@ Passionate about music, graphic design, illustration and visual arts in general.
 - 🌱 Currently learning and working with: **ReactJS, TailwindCSS, MySQL**
 
 - 📫 How to reach me: sasodsgn@gmail.com
+- coding stats: https://wakatime.com/@scsrs
 
 <br>
 
