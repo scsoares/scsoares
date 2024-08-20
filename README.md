@@ -5,7 +5,7 @@
 I'm a freelance graphic designer and illustrator studying web development since september 2023. My main interests are front-end dev and data visualization.
 Passionate about music, graphic design, illustration and visual arts in general.
 
-- 🌱 Currently learning: **VueJS, Sass**
+- 🌱 Currently learning: **ReactJS, Sass**
 
 - 📫 How to reach me: sasodsgn@gmail.com
 - coding stats: https://wakatime.com/@scsrs
