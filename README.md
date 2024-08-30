@@ -7,8 +7,8 @@ Passionate about music, graphic design, illustration and visual arts in general.
 
 - 🌱 Currently learning: **ReactJS, Sass**
 
-- Relevant projects I made or took part in:
-[Locadoo - a website where you can search for movies by keywords and themes](https://locadoo.vercel.app)
+- Relevant projects I made or took part in: <br />
+[Locadoo - a website where you can search for movies by keywords and themes](https://locadoo.vercel.app) <br />
 [Milena e o Ipê - a visual novel demo made for WGJ 2024](https://mangarosacollab.itch.io/milena-e-o-ip)
 
 - 📫 How to reach me: sasodsgn@gmail.com
