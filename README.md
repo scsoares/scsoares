@@ -2,13 +2,12 @@
 
 📍 Teresina, Brazil  /  Las Palmas de Gran Canaria, Spain
 
-I'm a freelance graphic designer and illustrator studying web development since september 2023. My main interests are front-end dev and data visualization.
-Passionate about music, graphic design, illustration and visual arts in general.
+I'm a freelance graphic designer and illustrator studying full stack web development since september 2023.
 
 - 🌱 Currently learning: **ReactJS, Sass**
 
 - Relevant projects I made or took part in: <br />
-[Locadoo - a website where you can search for movies by keywords and themes](https://locadoo.vercel.app) <br />
+[Locadoo - a website where you can search for movies by keywords and themes](https://locadoo.vercel.app) <br /> 
 [Milena e o Ipê - a visual novel demo made for WGJ 2024](https://mangarosacollab.itch.io/milena-e-o-ip)
 
 - 📫 How to reach me: sasodsgn@gmail.com
