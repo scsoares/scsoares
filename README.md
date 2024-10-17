@@ -1,6 +1,6 @@
 ## Hi there, I'm Sarah 👋
 
-📍 Las Palmas de Gran Canaria, Spain / Teresina, Brazil 
+📍 Las Palmas de Gran Canaria, Spain
 
 I'm a freelance graphic designer and illustrator studying full stack web development since september 2023.
 
