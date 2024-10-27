@@ -2,7 +2,7 @@
 
 📍 Las Palmas de Gran Canaria, Spain
 
-I'm a freelance graphic designer and illustrator studying full stack web development since september 2023.
+I'm a full stack web development student since august 2023.
 
 - 🌱 Currently learning: **ReactJS, Sass**
 
