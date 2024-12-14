@@ -15,7 +15,7 @@ I'm a full stack web development student since august 2023.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,docker,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,mysql,docker,figma,git)](https://skillicons.dev)
 
 
 <!--
