@@ -2,7 +2,7 @@
 
 📍 Las Palmas de Gran Canaria, Spain
 
-I'm a full stack web development student since august 2023.
+Completing my full stack web development degree and working as a front end developer intern. 
 
 - 🌱 Currently learning: **ReactJS, Sass**
 
