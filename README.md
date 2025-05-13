@@ -1,10 +1,6 @@
 ## Hi there, I'm Sarah 👋
 
-📍 Las Palmas de Gran Canaria, Spain
-
-Completing my full stack web development degree and working as a front end developer intern. 
-
-- 🌱 Currently learning: **ReactJS, Sass**
+Frontend developer based in Las Palmas de Gran Canaria, Spain.
 
 - Relevant projects I made or took part in: <br />
 [Locadoo - a website where you can search for movies by keywords and themes](https://locadoo.vercel.app) <br /> 
