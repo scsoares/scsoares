@@ -1,6 +1,6 @@
 ## Hi there, I'm Sarah 👋
 
-Frontend developer based in Las Palmas de Gran Canaria, Spain.
+Software developer based in Las Palmas de Gran Canaria, Spain.
 
 - Relevant projects I made or took part in: <br />
 [Locadoo - a website where you can search for movies by keywords and themes](https://locadoo.vercel.app) <br /> 
