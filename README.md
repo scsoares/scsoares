@@ -9,7 +9,7 @@ Software developer based in Las Palmas de Gran Canaria, Spain.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,docker,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,java,docker,figma,git)](https://skillicons.dev)
 
 
 <!--
